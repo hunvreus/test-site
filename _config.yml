@@ -1,0 +1,12 @@
+---
+exclude: ['README.markdown', 'Makefile', 'component.json']
+pygments: true
+safe: false
+
+name: Foundation
+url: http://wiredcraft.github.com/foundation
+description: A boilerplate for Jekyll sites
+author: Bob Smith
+email: bob@example.com
+# ga: 'UA-XXXXXXX-X'
+# gauges: xxx
