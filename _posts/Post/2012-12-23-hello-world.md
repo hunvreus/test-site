@@ -1,6 +1,8 @@
 ---
 Title: Hello world
-date: 2013-10-29
+date: 2013-10-28
+layout: post
 ---
+
 
 sdfdsfsdfdf
